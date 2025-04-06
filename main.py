@@ -10,7 +10,7 @@ st.markdown("""
     <style>
         .stApp {
             background-color: black;
-            background-image: url("https://i.ibb.co/0QXm9mF/coding-bg.gif");
+            background-image: url("https://images.unsplash.com/photo-1590272456521-1bbe160a18ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
